@@ -365,7 +365,6 @@ let scmnr.2910 = {'type': 'git', 'url': 'git://github.com/tyru/restart.vim'}
 let scmnr.3133 = {'type': 'git', 'url': 'git://github.com/tyru/open-browser.vim'}
 let scmnr.3167 = {'type': 'git', 'url': 'git://github.com/tyru/regbuf.vim'}
 let scmnr.3610 = {'type': 'git', 'url': 'git://github.com/tyru/operator-star.vim'}
-let scm['caw'] = {'type': 'git', 'url': 'git://github.com/tyru/caw.vim'}
 let scm['eskk'] = {'type': 'git', 'url': 'git://github.com/tyru/eskk.vim'}
 let scm['make-cmdline-compl'] = {'type': 'git', 'url': 'git://github.com/tyru/make-cmdline-compl.vim'}
 let scm['gravit'] = {'type': 'git', 'url': 'git://github.com/tyru/gravit.vim'}
@@ -1219,9 +1218,6 @@ let scm['YouCompleteMe'] = {'type': 'git', 'url': 'git://github.com/Valloric/You
 
 " zaiste
 let scm['tmux'] = {'type': 'git', 'url': 'git://github.com/zaiste/tmux.vim'}
-
-" tfnico
-let scm['vim-gradle'] = {'type': 'git', 'url': 'git://github.com/tfnico/vim-gradle'}
 
 " others:
 let scm['mustache'] = {'type': 'git', 'url': 'git://github.com/juvenn/mustache.vim'}
